@@ -1,4 +1,4 @@
-# Python Maze Library Modification Study Project
+# Python Maze Library Modification Project
 
 ## Introduction and Problem Statement
 
