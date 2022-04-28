@@ -37,3 +37,13 @@
     9. Avoid using restarting kernel and run all option.
     10. Avoid changing or modifying all the code below except running them.
     
+## Sample Modified Outputs: 
+
+<p align="center">
+  <img width="45%" src="https://github.com/Yong-Wai-Chun/Python-Maze-Library-Mod/blob/main/components/DFS.png?raw=true">
+  <br> Figure 2
+</p>
+
+<p align="justify">
+    As we can see from the figure 2. The modified version will have 3 different goals and one agent. The agent will change colors when the goal changes as well to give a clearer visualization. 
+</p>
