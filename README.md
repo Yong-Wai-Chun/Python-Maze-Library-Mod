@@ -47,3 +47,13 @@
 <p align="justify">
     As we can see from the figure 2. The modified version will have 3 different goals and one agent. The agent will change colors when the goal changes as well to give a clearer visualization. 
 </p>
+
+## Reference
+<a href="https://github.com/MAN1986/pyamaze/blob/main/pyamaze/pyamaze.py">Pyamaze</a>
+
+## Credit
+<a href="https://github.com/MAN1986">https://github.com/MAN1986</a>
+
+<p align="center">
+  <img width="45%" src="https://github.com/Yong-Wai-Chun/Python-Maze-Library-Mod/blob/main/components/giphy.gif?raw=true">
+</p>
