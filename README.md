@@ -45,13 +45,13 @@
 </p>
 
 <p align="justify">
-    As we can see from the figure 2. The modified version will have 3 different goals and one agent. The agent will change colors when the goal changes as well to give a clearer visualization. 
+    As we can see from the figure 2. The modified version will have 3 different goals and one agent. The agent will change colors when the goal changes as well to give a clearer visualization. Blue being the first goal, yellow is the second and red is the third also the last.
 </p>
 
 ## Summary and Findings
 
 <p align="justify">
-    In the nutshell, it is now easier to visualize and compare how the agent trace the path towards the goal with more than one. This package can be used for learning and understanding any sort of searching algorithms. After completing this project, I have been given the chance to understand and learn more on reading and modfying other people's codes. With this project, it is certainly a good practise for me to improve on doing code modification rather than just developing original code. 
+    In the nutshell, it is now easier to visualize and compare how the agent trace the path towards the goal with more than one. This package can be used for learning and understanding any sort of searching algorithms. After completing this project, I have been given the chance to understand and learn more on reading and modifying other people's codes. With this project, it is certainly a good practise for me to improve on doing code modification rather than just developing original code. 
 </p>
 
 ## Reference
