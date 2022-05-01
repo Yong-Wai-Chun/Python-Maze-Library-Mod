@@ -25,7 +25,7 @@
 - Informed:
     - A Star Search
 
-## !!! INSTRUCTIONS !!!
+## !!! INSTRUCTIONS FOR RUNNING !!!
     1. Only run the contents in the main.ipynb Jupyter Notebook.
     2. pyamazeMod.py is the modified Pyamaze Library, please keep the main.ipynb and pyamazeMod in the same directory while running.
     3. To run the original pyamaze library, please uncomment the first package in the package code block and comment the second package in the package code block.
@@ -36,6 +36,7 @@
     8. Avoid restarting kernel with clearing output so that it's easier to refer back the searching time.
     9. Avoid using restarting kernel and run all option.
     10. Avoid changing or modifying all the code below except running them.
+    11. If the maze window stopped running, please close it and refresh/restart the kernal.
     
 ## Sample Modified Outputs: 
 
