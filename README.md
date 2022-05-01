@@ -14,7 +14,7 @@
 ## Contributions and Motivations
 
 <p align="justify">
-    The modification made here is instead of having just one goal, two more goals are added. The goals will change intervally and when the goal changed, the agent will retrace a new path and keep searching for the new goal until it reached the last goal generated eventually. The main purpose of this modification is to understand an exisiting Python package and learn to modify the codes. Programming does not only need to write original codes but it is also very important to learn from other people's codes and modify them to satisfy with our own's requirements. The other motivation is by creating more goals, we can visualize how the agent moves to different path based on different searching algorithms.
+    The modification made here is that instead of having just one goal, two more goals are added. The goals will change intervally and when the goal changed, the agent will retrace a new path and keep searching for the new goal until it reached the last goal generated eventually. The main purpose of this modification is to understand an exisiting Python package and learn to modify the codes. Programming does not only need to write original codes but it is also very important to learn from other people's codes and modify them to satisfy with our own's requirements. The other motivation is by creating more goals, we can visualize how the agent moves to different path based on different searching algorithms.
 <br><br>
 </p>
 
@@ -46,6 +46,12 @@
 
 <p align="justify">
     As we can see from the figure 2. The modified version will have 3 different goals and one agent. The agent will change colors when the goal changes as well to give a clearer visualization. 
+</p>
+
+## Summary and Findings
+
+<p align="justify">
+    In the nutshell, it is now easier to visualize and compare how the agent trace the path towards the goal with more than one. This package can be used for learning and understanding any sort of searching algorithms. After completing this project, I have been given the chance to understand and learn more on reading and modfying other people's codes. With this project, it is certainly a good practise for me to improve on doing code modification rather than just developing original code. 
 </p>
 
 ## Reference
