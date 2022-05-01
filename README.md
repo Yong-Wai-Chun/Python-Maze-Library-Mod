@@ -46,7 +46,7 @@
 </p>
 
 <p align="justify">
-    As we can see from the figure 2. The modified version will have 3 different goals and one agent. The agent will change colors when the goal changes as well to give a clearer visualization. Blue being the first goal, yellow is the second and red is the third also the last.
+    As we can see from the figure 2. The modified version will have 3 different goals and one agent. The agent will change colors when the goal changes as well to give a clearer visualization. Blue being the first goal, red is the second and yellow is the third also the last.
 </p>
 
 ## Summary and Findings
