@@ -3,7 +3,7 @@
 ## Introduction and Problem Statement
 
 <p align="justify">
-    Hello, this project about mainly about a modification done to an existing Python project called <a href="https://github.com/MAN1986/pyamaze/blob/main/pyamaze/pyamaze.py">Pyamaze</a> with some searching algorithms. Pyamaze library is a library that is developed in Python and can be import to use after downloading on any IDLE tools. This library is about creating a maze and visualizing an agent's route to its goal. Figure 1 shows an example of the output. The maze consists of only one agent and one goal. The route searching technique being used here is Breadth First Search by default.
+    Hello, this project about mainly about a modification done to an existing Python project called <a href="https://github.com/MAN1986/pyamaze/blob/main/pyamaze/pyamaze.py">Pyamaze</a> with some searching algorithms. Pyamaze library is a library that is developed in Python and can be imported to use after downloading on any IDLE tools. This library is about creating a maze and visualizing an agent's route to its goal. Figure 1 shows an example of the output. The maze consists of only one agent and one goal. The route searching technique being used here is Breadth First Search by default.
 </p>
 
 <p align="center">
