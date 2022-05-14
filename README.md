@@ -37,6 +37,7 @@
     9. Avoid using restarting kernel and run all option.
     10. Avoid changing or modifying all the code below except running them.
     11. If the maze window stopped running, please close it and refresh/restart the kernal.
+    !!! PLEASE MAKE SURE ALL THE FILES AND FOLDERS INCLUDING THE COMPONENTS FOLDER ARE INCLUDED IN THE SAME DIRECTORY !!!
     
 ## Sample Modified Outputs: 
 
